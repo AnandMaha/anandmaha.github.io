@@ -1,3 +1,2 @@
-# anandmaha.github.io
-anandmaha.github.io
-- My website
+# Personal Website
+[anandmaha.github.io](anandmaha.github.io)
